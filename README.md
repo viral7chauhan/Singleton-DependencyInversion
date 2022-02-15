@@ -1,1 +1,3 @@
 # Singleton-DependencyInversion
+
+![](Diagram.png)
